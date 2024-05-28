@@ -26,6 +26,6 @@ Did you know? **Octopuses have three hearts**! Two pump blood to the gills, whil
 
 Feel free to reach out if you have any questions or if you'd like to collaborate on a project!
 
-- **LinkedIn:** [your-linkedin-profile](https://www.linkedin.com/in/akochoamadrid/)
+- **LinkedIn:** [linkedin-profile](https://www.linkedin.com/in/akochoamadrid/)
 
 Thanks for visiting my profile! 😀
