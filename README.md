@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# About Me 🔭
+## About Me 🔭
 
 Hello! I'm a **QA Engineer** based in **México** 🇲🇽. With a passion for ensuring the highest quality in software products, I've worked in both manual and automated testing to make sure that everything runs smoothly and efficiently.
 
