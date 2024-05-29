@@ -1,8 +1,6 @@
 ## Hola, soy Ana! 👋🏻
 
-## About Me 🔭
-
-Hello! I'm a curious tester based in **México** 🇲🇽. With a passion for ensuring the highest quality in software products, I've worked in both manual and automated testing to make sure that everything runs smoothly and efficiently ~
+About me 🔭 - I'm a curious tester based in **México** 🇲🇽. With a passion for ensuring the highest quality in software products, I've worked in both manual and automated testing to make sure that everything runs smoothly and efficiently ~
 
 ## What I'm doing 🌱
 - 🌱 I’m currently learning Playwrite
