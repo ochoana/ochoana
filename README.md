@@ -22,6 +22,10 @@ Hello! I'm a **QA Engineer** based in **México** 🇲🇽. With a passion for e
 
 Did you know? **Octopuses have three hearts**! Two pump blood to the gills, while the third pumps it to the rest of the body.
 
+<!-- Markdown -->
+
+![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder)
+
 ## Contact 📫
 
 Feel free to reach out if you have any questions or if you'd like to collaborate on a project!
