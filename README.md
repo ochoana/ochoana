@@ -1,35 +1,24 @@
-## Hi there 👋
+## Hola, soy Ana! 👋🏻
 
 ## About Me 🔭
 
-Hello! I'm a **QA Engineer** based in **México** 🇲🇽. With a passion for ensuring the highest quality in software products, I've worked in both manual and automated testing to make sure that everything runs smoothly and efficiently.
+Hello! I'm a curious tester based in **México** 🇲🇽. With a passion for ensuring the highest quality in software products, I've worked in both manual and automated testing to make sure that everything runs smoothly and efficiently ~
 
-## What I Do 🌱
+## What I'm doing 🌱
+- 🌱 I’m currently learning Playwrite
+- 👩🏻‍🔬 I'm also interested in areas like Technical Writing
+- 🫀 I like to run, write on my journal, read books and play games in my free time
+- ⚡️ Fun fact: I am participating in a Latino scientific community by writing articles, mentoring high school students and creating events
 
-- **Automated Testing:** Developing scripts and tools to automate repetitive testing tasks.
-- **Manual Testing:** Conducting thorough exploratory and regression testing to identify bugs and improve user experience.
-- **Test Planning:** Creating detailed test plans and strategies to cover all aspects of the software development lifecycle.
-- **Bug Tracking:** Using various bug tracking tools to document, prioritize, and track the resolution of defects.
-
-## Technologies & Tools 🚀
-
-- **Programming Languages:** Python, JavaScript
-- **Testing Frameworks:** Maestro Studio, Playwrite
-- **CI/CD Tools:** CircleCI
-- **Bug Tracking:** Jira, Rocketlane, Asana
-
-## Fun Fact 🐙
-
-Did you know? **Octopuses have three hearts**! Two pump blood to the gills, while the third pumps it to the rest of the body.
-
-<!-- Markdown -->
-
-![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder)
+## Core Values ✨
+- 🍏 **Curiosity:** Embracing a beginner's mindset and continual learning
+- 🎭 **Authenticity:** Being true to myself in all interactions
+- 🛡️ **Trust:** Creating a safe and respectful environment
+- 🤝 **Consensus:** Building shared understanding through collaboration
 
 ## Contact 📫
 
 Feel free to reach out if you have any questions or if you'd like to collaborate on a project!
 
 - **LinkedIn:** [linkedin-profile](https://www.linkedin.com/in/akochoamadrid/)
-
-Thanks for visiting my profile! 😀
+- **Solo es Ciencia:** [Latino-Scientific-Community](https://soloesciencia.com/)
