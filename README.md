@@ -10,7 +10,7 @@ Hello! I'm a curious tester based in **México** 🇲🇽. With a passion for en
 - 🫀 I like to run, write on my journal, read books and play games in my free time
 - ⚡️ Fun fact: I am participating in a Latino scientific community by writing articles, mentoring high school students and creating events
 
-## Core Values ✨
+## Core values ✨
 - 🍏 **Curiosity:** Embracing a beginner's mindset and continual learning
 - 🎭 **Authenticity:** Being true to myself in all interactions
 - 🛡️ **Trust:** Creating a safe and respectful environment
