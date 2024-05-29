@@ -18,7 +18,7 @@ Hello! I'm a **QA Engineer** based in **México** 🇲🇽. With a passion for e
 - **CI/CD Tools:** CircleCI
 - **Bug Tracking:** Jira, Rocketlane, Asana
 
-## Fun Fact 🙊
+## Fun Fact 🐙
 
 Did you know? **Octopuses have three hearts**! Two pump blood to the gills, while the third pumps it to the rest of the body.
 
