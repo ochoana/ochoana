@@ -6,7 +6,6 @@ About me 🔭 - I'm a curious tester based in **México** 🇲🇽. With a passi
 - 🌱 I’m currently learning Playwrite
 - 👩🏻‍🔬 I'm also interested in areas like Technical Writing
 - 🫀 I like to run, write on my journal, read books and play games in my free time
-- ⚡️ Fun fact: I am participating in a Latino scientific community by writing articles, mentoring high school students and creating events
 
 ## Core values ✨
 - 🍏 **Curiosity:** Embracing a beginner's mindset and continual learning
@@ -19,4 +18,3 @@ About me 🔭 - I'm a curious tester based in **México** 🇲🇽. With a passi
 Feel free to reach out if you have any questions or if you'd like to collaborate on a project!
 
 - **LinkedIn:** [linkedin-profile](https://www.linkedin.com/in/akochoamadrid/)
-- **Solo es Ciencia:** [Latino-Scientific-Community](https://soloesciencia.com/)
