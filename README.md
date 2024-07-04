@@ -12,9 +12,3 @@ About me 🔭 - I'm a curious tester based in **México** 🇲🇽. With a passi
 - 🎭 **Authenticity:** Being true to myself in all interactions
 - 🛡️ **Trust:** Creating a safe and respectful environment
 - 🤝 **Consensus:** Building shared understanding through collaboration
-
-## Contact 📫
-
-Feel free to reach out if you have any questions or if you'd like to collaborate on a project!
-
-- **LinkedIn:** [linkedin-profile](https://www.linkedin.com/in/akochoamadrid/)
